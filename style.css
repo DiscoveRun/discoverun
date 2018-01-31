@@ -1,0 +1,88 @@
+@font-face {
+	font-family: avenir;
+	src:url(font);
+
+}
+
+#div-homepage{
+	background-image: url('background2.png');
+	background-size: cover;
+	height: 92vh;
+}
+
+h1 {
+	font-size: 58px;
+	font-family: avenir; 
+	font-weight: bold;
+	padding-top: 130px;
+	padding-left: 30px;
+}
+
+
+.description{
+	background-image: url('backgroundext.png');
+	background-size: cover;
+	}
+
+.background-opaque {
+	background-color: rgba(240,240,240,0.8);
+}
+
+h2 {
+	font-size: 36px;
+	font-family: avenir;
+	font-weight: bold;
+	padding-top: 80px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+
+
+h3 {
+	font-size: 25px;
+	font-family: avenir;
+	font-weight: bolder;
+	color: orange;
+	padding: 40px 0 20px 0;
+}
+
+h4 {
+	font-size: 15px;
+	font-family: avenir;
+	font-weight: bolder;
+	color:orange;
+	padding-top: 230px;
+	padding-left: 400px;
+}
+
+h5 {
+	font-size: 15px;
+	font-family: avenir;
+	font-weight: bolder;
+	color:orange;
+	padding-top: 230px;
+	padding-right: 230px;
+}
+
+
+.call-to-action {
+	margin: 50px 0;
+}
+
+
+
+.card {
+	width: 15rem !important;
+	margin-bottom: 25px;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+
+
+
